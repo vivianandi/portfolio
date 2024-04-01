@@ -3,7 +3,7 @@
 # LHR
 ## LHR Monday Lab Class 1 
 
-![LHR1](/assets/)
+![LHR1](./build/images/LHR1.png)
 
 # Time Estimates
 ## Lab 2 - Tues
@@ -16,5 +16,5 @@
 ## Feature #1: 
 Estimate of time needed to complete: 2 hours
 Start time: 10:30
-Finish time:  
-Actual time needed to complete: 
+Finish time: 1:30
+Actual time needed to complete: 3 hours but took a long detour to fix netlify links
