@@ -7,7 +7,7 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/Users/viviandavila/projects/courses/code-301-projects/portfolio"
+publish = "build"
 publishOrigin = "default"
 command = "npm run build"
 commandOrigin = "heuristics"
