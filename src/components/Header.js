@@ -104,7 +104,7 @@ class Header extends Component {
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br />
               <h1 className="mb-0">
-                {"Vivian Davila"}
+                {name}
               </h1>
               <p>Management Consultant transitioning to Software Development</p>
               <div className="title-container">
