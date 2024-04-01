@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Vivian Davila. Software Developer making a transition from a solid foundation in project management and process development. Eager to apply my project management background to streamline development processes, enhance team collaboration, and deliver effective web solutions. Committed to continuous learning and passionate about creating impactful user experiences through innovative web development practices.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Day Planner",
+      "startDate": "2024",
+      "description": "An interactive daily planner, with a weather plug-in to ensure you're always prepared.",
+      "images": [
+        "images/dayplanner.png"
+      ],
+      "url": "https://github.com/Tech-City-Apps/day-planner",
+      "technologies": [
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
